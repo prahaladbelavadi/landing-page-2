@@ -18,15 +18,12 @@
   },
   "license": "MIT",
   "author": "Start Bootstrap",
-  "contributors": [{
+  "contributors":
+  [{
       "Originally":
-      [
-          "David Miller (http://davidmiller.io/)"
-      ],
+      ["David Miller (http://davidmiller.io/)"],
     "Customizedby":
-     [
-         "Prahalad Belavadi (http://belavadi.com)"
-     ]
+     ["Prahalad Belavadi (http://belavadi.com)"]
  }],
   "repository": {
     "type": "git",

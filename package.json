@@ -1,8 +1,8 @@
 {
-  "title": "Createive",
+  "title": "Customized Creative",
   "name": "startbootstrap-creative",
   "version": "4.0.0-alpha",
-  "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+  "description": "Creative is a stylish one page HTML theme for Bootstrap. Originally made by Startbootstrap and customized by Prahalad Belavadi",
   "keywords": [
     "css",
     "sass",
@@ -11,19 +11,26 @@
     "theme",
     "template"
   ],
-  "homepage": "http://startbootstrap.com/template-overviews/creative",
+  "homepage": "https://prahaladbelavadi.github.io/landing-page-2/",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/prahaladbelavadi/landing-page-2/issues",
+    "email": "prahaladbelavadi@gmail.com"
   },
   "license": "MIT",
   "author": "Start Bootstrap",
-  "contributors": [
-    "David Miller (http://davidmiller.io/)"
-  ],
+  "contributors": [{
+      "Originally":
+      [
+          "David Miller (http://davidmiller.io/)"
+      ],
+    "Customizedby":
+     [
+         "Prahalad Belavadi (http://belavadi.com)"
+     ]
+ }],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlackrockDigital/startbootstrap-creative.git"
+    "url": "git+https://github.com/prahaladbelavadi/landing-page-2.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
